@@ -6,7 +6,7 @@
 
 port1=17
 
-message1="aaaaaaaaaaaaaatesttest圧迫面接ジャム作りsinyouju   `date +%H:%M`"
+message1="音無小鳥  `date +%H:%M`"
 #message1="redbu11"
 
 gpio -g mode $port1 in
