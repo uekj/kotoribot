@@ -1,10 +1,10 @@
-#!/bin/sh
+#!/bin/bash
 #
 #
 #
 
 
-port1=17
+readonly port1=17
 
 message1="音無小鳥  `date +%H:%M`"
 #message1="redbu11"
